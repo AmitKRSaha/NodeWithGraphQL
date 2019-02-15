@@ -1,0 +1,24 @@
+{
+  "name": "nodewithgraphql",
+  "version": "1.0.0",
+  "description": "Node Js With Graph QL",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmitKRSaha/NodeWithGraphQL.git"
+  },
+  "author": "Amit Kumar Saha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmitKRSaha/NodeWithGraphQL/issues"
+  },
+  "homepage": "https://github.com/AmitKRSaha/NodeWithGraphQL#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.1.1"
+  }
+}
